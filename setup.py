@@ -6,7 +6,7 @@ install_requires = [
     'Flask==0.10.1',
     'Gunicorn==19.4.5',
     'itsdangerous==0.24',
-    'Jinja2==2.8',
+    'Jinja2==2.10.1',
     'MarkupSafe==0.23',
     'Werkzeug==0.11.7'
 ]
