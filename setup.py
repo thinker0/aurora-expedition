@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 # as a package repository in this tutorial, we resort to pinning those here.
 install_requires = [
     'Flask==0.10.1',
-    'Gunicorn==19.4.5',
+    'Gunicorn==19.5.0',
     'itsdangerous==0.24',
     'Jinja2==2.8',
     'MarkupSafe==0.23',
