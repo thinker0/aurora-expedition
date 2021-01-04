@@ -8,7 +8,7 @@ install_requires = [
     'itsdangerous==0.24',
     'Jinja2==2.8',
     'MarkupSafe==0.23',
-    'Werkzeug==0.11.7'
+    'Werkzeug==0.15.3'
 ]
 
 setup(
