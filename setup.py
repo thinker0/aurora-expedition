@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 # We would normally pin those in a requirements.txt, but as we abuse github
 # as a package repository in this tutorial, we resort to pinning those here.
 install_requires = [
-    'Flask==0.10.1',
+    'Flask==1.0',
     'Gunicorn==19.4.5',
     'itsdangerous==0.24',
     'Jinja2==2.8',
